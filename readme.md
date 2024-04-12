@@ -26,7 +26,7 @@ step 4500: train loss 0.8720, val loss 1.5567
 0.9912359714508057
 
 
-# the holy 3000 tokens tokens of shakespere wisdom
+# the holy 3000 tokens of shakespere wisdom
 
 ESTA:
 Tell hie, my grave before thy sin son:
