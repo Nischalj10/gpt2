@@ -128,4 +128,4 @@ DUKE ERVINCENTIO:
 
 # commemorating this with -
 
-![alt text](<busted_mac.png>)
+![alt text](<busted_air.png>)
