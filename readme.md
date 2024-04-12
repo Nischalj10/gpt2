@@ -3,17 +3,16 @@ char level autoregressive model.
 
 # after 24 hrs of training gpt.py on M2 Air lol -
 
-step 0: train loss 4.2846, val loss 4.2820
-step 500: train loss 1.6359, val loss 1.8073
-step 1000: train loss 1.3473, val loss 1.5734
-step 1500: train loss 1.2373, val loss 1.5051
-step 2000: train loss 1.1626, val loss 1.4828
-step 2500: train loss 1.0949, val loss 1.4830
-step 3000: train loss 1.0391, val loss 1.4924
-
-step 3500: train loss 0.9833, val loss 1.5162
-step 4000: train loss 0.9287, val loss 1.5288
-step 4500: train loss 0.8720, val loss 1.5567
+step 0: train loss 4.2846, val loss 4.2820 \n
+step 500: train loss 1.6359, val loss 1.8073 \n
+step 1000: train loss 1.3473, val loss 1.5734 \n
+step 1500: train loss 1.2373, val loss 1.5051 \n
+step 2000: train loss 1.1626, val loss 1.4828 \n
+step 2500: train loss 1.0949, val loss 1.4830 \n
+step 3000: train loss 1.0391, val loss 1.4924 \n
+step 3500: train loss 0.9833, val loss 1.5162 \n
+step 4000: train loss 0.9287, val loss 1.5288 \n
+step 4500: train loss 0.8720, val loss 1.5567 \n
 0.9912359714508057
 
 
